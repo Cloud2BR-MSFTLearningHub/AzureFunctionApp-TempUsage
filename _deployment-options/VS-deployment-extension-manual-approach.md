@@ -2,9 +2,7 @@
 
 Costa Rica
 
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
-[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-[brown9804](https://github.com/brown9804)
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/) [Cloud2BR OSS - Learning Hub](https://github.com/Cloud2BR-MSFTLearningHub)
 
 Last updated: 2025-10-01
 
@@ -12,10 +10,10 @@ Last updated: 2025-10-01
 
 > [!NOTE]
 > Here are a few examples that demonstrate the deployment process and the creation of E2E solution. Please feel free to use them as references if needed.
-> - [Demo: Azure Implementation - PDF Layout Extraction with Azure AI Document Intelligence Supporting Multiple Document Versions with Visual Selection Cues (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-MultiLayout-VisualCue-AzureAI-Document-Processing)
-> - [Demo: Automated PDF Invoice Processing with Open Framework (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-Invoice-Processing-Fapp-OpenFramework)
-> - [Demo: PDF Layout Extraction with Doc Intelligence (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-Layouts-Processing-Fapp-DocIntelligence)
-> - [Demo: Automated PDF Invoice Processing with Doc Intelligence (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-Invoice-Processing-Fapp-DocIntelligence)
+> - [Demo: Azure Implementation - PDF Layout Extraction with Azure AI Document Intelligence Supporting Multiple Document Versions with Visual Selection Cues (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-MultiLayout-VisualCue-AzureAI-Document-Processing)
+> - [Demo: Automated PDF Invoice Processing with Open Framework (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Invoice-Processing-Fapp-OpenFramework)
+> - [Demo: PDF Layout Extraction with Doc Intelligence (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Layouts-Processing-Fapp-DocIntelligence)
+> - [Demo: Automated PDF Invoice Processing with Doc Intelligence (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Invoice-Processing-Fapp-DocIntelligence)
 
 ## Function App Hosting Options 
 
@@ -213,20 +211,20 @@ Last updated: 2025-10-01
     > 8. **Logging (Process and Errors)**: Logs each step of the process, including success messages and detailed error handling for debugging and monitoring.
 
   - Update the function_app.py, for example see the code used in each demo:
-     - [Demo: Azure Implementation - PDF Layout Extraction with Azure AI Document Intelligence Supporting Multiple Document Versions with Visual Selection Cues (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-MultiLayout-VisualCue-AzureAI-Document-Processing)
-     - [Demo: Automated PDF Invoice Processing with Open Framework (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-Invoice-Processing-Fapp-OpenFramework)
-     - [Demo: PDF Layout Extraction with Doc Intelligence (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-Layouts-Processing-Fapp-DocIntelligence)
-     - [Demo: Automated PDF Invoice Processing with Doc Intelligence (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-Invoice-Processing-Fapp-DocIntelligence)
+     - [Demo: Azure Implementation - PDF Layout Extraction with Azure AI Document Intelligence Supporting Multiple Document Versions with Visual Selection Cues (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-MultiLayout-VisualCue-AzureAI-Document-Processing)
+     - [Demo: Automated PDF Invoice Processing with Open Framework (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Invoice-Processing-Fapp-OpenFramework)
+     - [Demo: PDF Layout Extraction with Doc Intelligence (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Layouts-Processing-Fapp-DocIntelligence)
+     - [Demo: Automated PDF Invoice Processing with Doc Intelligence (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Invoice-Processing-Fapp-DocIntelligence)
 
       | Template Blob Trigger | Function Code updated |
       | --- | --- |
       |   <img width="550" alt="image" src="https://github.com/user-attachments/assets/07a7b285-eed2-4b42-bb1f-e41e8eafd273"> |  <img width="550" alt="image" src="https://github.com/user-attachments/assets/d364591b-817e-4f36-8c50-7de187c32a1e">|
 
   - Now, let's update the `requirements.txt`, see the code used in each demo:
-     - [Demo: Azure Implementation - PDF Layout Extraction with Azure AI Document Intelligence Supporting Multiple Document Versions with Visual Selection Cues (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-MultiLayout-VisualCue-AzureAI-Document-Processing)
-     - [Demo: Automated PDF Invoice Processing with Open Framework (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-Invoice-Processing-Fapp-OpenFramework)
-     - [Demo: PDF Layout Extraction with Doc Intelligence (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-Layouts-Processing-Fapp-DocIntelligence)
-     - [Demo: Automated PDF Invoice Processing with Doc Intelligence (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-Invoice-Processing-Fapp-DocIntelligence)
+     - [Demo: Azure Implementation - PDF Layout Extraction with Azure AI Document Intelligence Supporting Multiple Document Versions with Visual Selection Cues (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-MultiLayout-VisualCue-AzureAI-Document-Processing)
+     - [Demo: Automated PDF Invoice Processing with Open Framework (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Invoice-Processing-Fapp-OpenFramework)
+     - [Demo: PDF Layout Extraction with Doc Intelligence (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Layouts-Processing-Fapp-DocIntelligence)
+     - [Demo: Automated PDF Invoice Processing with Doc Intelligence (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Invoice-Processing-Fapp-DocIntelligence)
 
     | Template `requirements.txt` | Updated `requirements.txt` |
     | --- | --- |
@@ -251,7 +249,7 @@ Last updated: 2025-10-01
 
 > [!IMPORTANT]
 > If you need a hand with the code, just check out some of the examples, they’ve got extra information.
-> - [Demo: Azure Implementation - PDF Layout Extraction with Azure AI Document Intelligence Supporting Multiple Document Versions with Visual Selection Cues (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-MultiLayout-VisualCue-AzureAI-Document-Processing)
-> - [Demo: Automated PDF Invoice Processing with Open Framework (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-Invoice-Processing-Fapp-OpenFramework)
-> - [Demo: PDF Layout Extraction with Doc Intelligence (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-Layouts-Processing-Fapp-DocIntelligence)
-> - [Demo: Automated PDF Invoice Processing with Doc Intelligence (full-code approach)](https://github.com/MicrosoftCloudEssentials-LearningHub/PDFs-Invoice-Processing-Fapp-DocIntelligence)
+> - [Demo: Azure Implementation - PDF Layout Extraction with Azure AI Document Intelligence Supporting Multiple Document Versions with Visual Selection Cues (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-MultiLayout-VisualCue-AzureAI-Document-Processing)
+> - [Demo: Automated PDF Invoice Processing with Open Framework (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Invoice-Processing-Fapp-OpenFramework)
+> - [Demo: PDF Layout Extraction with Doc Intelligence (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Layouts-Processing-Fapp-DocIntelligence)
+> - [Demo: Automated PDF Invoice Processing with Doc Intelligence (full-code approach)](https://github.com/Cloud2BR-MSFTLearningHub/PDFs-Invoice-Processing-Fapp-DocIntelligence)
